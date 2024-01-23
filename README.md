@@ -1,1 +1,10 @@
-# bypass_Amazon_Captcha
+# Amazon Captcha Bypass Script
+
+This script is designed to bypass Amazon Captcha by automating the process of solving Captchas using the 2captcha service. For detailed configuration settings, please refer to the associated article.
+
+## Getting Started
+
+Prerequisites
+
+Node.js installed
+2captcha API key - https://2captcha.com/?from=2957847
