@@ -1,0 +1,1 @@
+# bypass_Amazon_Captcha
