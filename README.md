@@ -1,6 +1,6 @@
 # Amazon Captcha Bypass Script
 
-This script is designed to bypass Amazon Captcha by automating the process of solving Captchas using the 2captcha service. For detailed configuration settings, please refer to the associated article.
+This script is designed to bypass Amazon Captcha by automating the process of solving Captchas using the 2captcha service. For detailed configuration settings, please refer to the associated article - https://www.reddit.com/r/ChatGPT/comments/19crpht/automated_solution_for_amazon_waf_captcha_even/
 
 ## Getting Started
 
