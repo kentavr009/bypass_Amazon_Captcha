@@ -9,6 +9,6 @@ Prerequisites
 Node.js installed
 2captcha API key - https://2captcha.com/?from=2957847
 
-[Video](https://youtu.be/49vf0ob6xbY)
+[Video - how to bypass Amazon Captcha](https://youtu.be/49vf0ob6xbY)
 
 [Amazon Captcha solver](https://2captcha.com/p/amazon-captcha-bypass)
